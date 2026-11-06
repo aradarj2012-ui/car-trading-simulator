@@ -1,0 +1,21 @@
+{
+  "cars": [
+    {"id":"aston martin","name":"Aston Martin","price":180000,"spawn_chance":4},
+    {"id":"alfa romeo giulia","name":"Alfa Romeo Giulia","price":85000,"spawn_chance":13},
+    {"id":"benz1","name":"Mercedes-Benz 1","price":100000,"spawn_chance":10},
+    {"id":"benz2","name":"Mercedes-Benz 2","price":140000,"spawn_chance":9},
+    {"id":"benz-amg one project","name":"Mercedes-AMG One","price":2800000,"spawn_chance":0.2},
+    {"id":"bmw-m4","name":"BMW M4","price":130000,"spawn_chance":8},
+    {"id":"bmw-i8","name":"BMW i8","price":150000,"spawn_chance":6},
+    {"id":"bmw-m3","name":"BMW M3","price":100000,"spawn_chance":9},
+    {"id":"ferrari-gt vision","name":"Ferrari GT Vision","price":1800000,"spawn_chance":0.8},
+    {"id":"ford","name":"Ford","price":65000,"spawn_chance":16},
+    {"id":"lamborgini","name":"Lamborghini","price":1200000,"spawn_chance":2.5},
+    {"id":"maclaren-gt vision","name":"McLaren GT Vision","price":1600000,"spawn_chance":1},
+    {"id":"maclaren-senna","name":"McLaren Senna","price":1500000,"spawn_chance":1.5},
+    {"id":"nasian gtr","name":"Nissan GT-R","price":110000,"spawn_chance":8},
+    {"id":"porshe","name":"Porsche","price":160000,"spawn_chance":5},
+    {"id":"porshe2","name":"Porsche 2","price":220000,"spawn_chance":4},
+    {"id":"porshe3","name":"Porsche 3","price":300000,"spawn_chance":2}
+  ]
+}
